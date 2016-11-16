@@ -14,7 +14,6 @@ Pre-requisites for the unit tests includes the following tools:
 - lcov
 - gcovr
 - Ninja 
-- Python
 
 You can use these commands to get the tools if you are running Ubuntu.
 
